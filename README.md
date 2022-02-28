@@ -1,4 +1,4 @@
-TLDR: admin name: "a", password: "b"; student name and password in the CSV file.
+TLDR: admin name: "a", password: "b"; student name and password at lines 2372-2405 in the source code.
 
 # My first C++ project
 A student enrolment and management system
@@ -17,6 +17,7 @@ I've learned and implemented:
 My shortcomings and flaws which I only realized 1 or 2 days before the deadline:
 - C++ has more data types such as "size_t" which is more appropriate to be used than "int" in many sections of this project.
 - Linked list is better than vector to store students' game history
+- Could have linked my project to a SQL database
 
 Without a doubt, there must have been more shortcomings that I do not realize or do not know how to put into words.
 For anyone interested, I am honored if you try the program out without looking at the messy code :P
