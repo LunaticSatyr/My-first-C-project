@@ -8,7 +8,7 @@ Despite me taking 3 weeks to do it, there are a lot of basic shortcomings and fl
 Nonetheless, it was a fun experience and I've learned a lot throughout the process.
 
 I've learned and implemented:
-- a basic logic system to allow CRUD operations by users on the student list and admin list,
+- a basic login system to allow CRUD operations by users on the student list and admin list,
 - RegEx to validate user input,
 - a dynamic layout that resizes to string of different length for student list / examination records,
 - an auto-incrementing student ID (using map) and self-updating student trimester (using localtime_r), and
